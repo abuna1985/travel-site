@@ -1173,7 +1173,7 @@ a {
 
       .site-header--dark .site-header__logo {
         -webkit-transform: scale(.555);
-                transform: scale(.555);
+                transform: scale(.555); 
       }
   }
 
