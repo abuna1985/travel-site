@@ -1172,8 +1172,8 @@ a {
   }
 
       .site-header--dark .site-header__logo {
-        -webkit-transform: scale(.56);
-                transform: scale(.56);
+        -webkit-transform: scale(.555);
+                transform: scale(.555);
       }
   }
 
