@@ -1,6 +1,6 @@
 # Travel-Site
 you can see a live demo [here](https://abuna1985.github.io/travel-site/)<br><br>
-An example travel website to demonstrate modern web development tools<br>
+An example travel website translated from a PSD file to demonstrate modern web development tools<br>
 ## Tools utitlized for this project:
 * HTML
 * CSS (with BEM naming convention)
